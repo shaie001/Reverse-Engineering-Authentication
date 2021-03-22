@@ -34,6 +34,7 @@ THEN I understand the codebase
 You are required to submit the following:
 
 * A link to a Google Doc or video explaining the application in `Develop/`. 
+* https://docs.google.com/document/d/1SLJT1epNQbnS2zJYmvRZ1eTfV4aXUlJcgBdzNxslURY/edit?usp=sharing
 
 _Note: Don't forget to change the sharing settings on your Google Doc._
 
